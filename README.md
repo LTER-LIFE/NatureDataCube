@@ -1,4 +1,4 @@
-![© Geerten Hengeveld](logo.png)
+![© Geerten Hengeveld](logo.png "© Geerten Hengeveld")
 
 # NatureDataCube
 
