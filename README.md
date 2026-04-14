@@ -1,3 +1,5 @@
+![© Geerten Hengeveld](logo.png)
+
 # NatureDataCube
 
 Meta-repository for the general development and issue-tracking of _NatureDataCube_ components.
