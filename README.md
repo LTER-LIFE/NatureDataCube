@@ -6,8 +6,10 @@ Meta-repository for the general development and issue-tracking of _NatureDataCub
 
 _NatureDataCube_ is currently being develped within the framework of [LTER-LIFE](https://lter-life.nl/en), and offers an accessible way for researchers/ecologists to retrieve relevant data.
 
-## Components
+## Subrepositories
 
-- [**NatureDataCube-R**](https://github.com/LTER-LIFE/NatureDataCube-R): R functions for simplifying requests through the _NatureDataCube_ API and woking with the returned data.
+- [**rNDC**](https://github.com/LTER-LIFE/rNDC): R package with functions and wrappers for interfacing with LTER-LIFE's _NatureDataCube_, simplifying access to geospatial environmental datasets for Dutch nature areas.
 
-- [**NatureDataCube-Shiny**](https://github.com/LTER-LIFE/NatureDataCube-Shiny): R-Shiny graphical user interface (GUI) to _NatureDataCube_, using functions from [NatureDataCube-R](https://github.com/LTER-LIFE/NatureDataCube-R) as backend.
+- [**rNDC-Shiny**](https://github.com/LTER-LIFE/rNDC-Shiny): Graphical user interface (GUI) to LTER-LIFE's _NatureDataCube_, based on R-Shiny, using functions from [rNDC](https://github.com/LTER-LIFE/rNDC).
+
+- [**VL-NatureDataCube**](https://github.com/LTER-LIFE/VL-NatureDataCube): Virtual Lab in [_NaaVRE_](https://naavre.net) for implementing and testing workflows, as well as for training purposes involving LTER-LIFE's _NatureDataCube_.
